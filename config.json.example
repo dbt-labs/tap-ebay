@@ -1,0 +1,8 @@
+{
+    "refresh_token": "",
+    "client_id": "",
+    "client_secret": "",
+    "scope": "https://api.ebay.com/oauth/api_scope/sell.fulfillment.readonly",
+    "start_date": "2019-01-01",
+    "user_agent": "tap-ebay <user@domain.com>"
+}
