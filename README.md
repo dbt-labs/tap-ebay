@@ -84,4 +84,4 @@ for more information on how tables are selected.
 tap-ebay -c config.json --catalog catalog.json
 ```
 
-Copyright &copy; 2019 Stich
+Copyright &copy; 2019 Stitch
