@@ -8,7 +8,7 @@ setup(name='tap-ebay',
       author='Fishtown Analytics',
       url='http://fishtownanalytics.com',
       classifiers=['Programming Language :: Python :: 3 :: Only'],
-      py_modules=['tab_ebay'],
+      py_modules=['tap_ebay'],
       install_requires=[
           'tap-framework==0.1.1',
       ],
