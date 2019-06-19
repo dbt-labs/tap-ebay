@@ -18,7 +18,7 @@ setup(name='tap-ebay',
       ''',
       packages=find_packages(),
       package_data={
-          'tap_lever': [
+          'tap_ebay': [
               'schemas/*.json'
           ]
       })
